@@ -15,9 +15,8 @@
 <img src="./screenshots/adapter_ui.png" alt="adapter_ui 실행화면" width="400">
 
 ## 데코레이터
-<img src="./screenshots/decorator_ui.png" alt="decorator_ui 실행화면" width="400">
-
-
-
-
+<p align="center">
+  <img src="./screenshots/decorator_ui_1.png" alt="decorator_ui 실행화면1" width="350">
+  <img src="./screenshots/decorator_ui_2.png" alt="decorator_ui 실행화면2" width="350">
+</p>
 
