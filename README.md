@@ -1,5 +1,21 @@
-# Vue 3 + TypeScript + Vite
+# 객체지향 디자인 패턴 실습 과제
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 1️⃣ 기본 예제 실행 스크린샷
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+제공된 **6개 디자인 패턴 예제 (Vue + TypeScript)** 코드를 실행해보고,  
+각 패턴의 실행 결과 화면을 **캡처**하였습니다.
+
+## 싱글톤
+![Vue 실행화면](./screenshots/singleton_ui.png)
+
+
+
+### 🧠 실행 환경
+- **Framework:** Vue 3 + TypeScript  
+- **Bundler:** Vite  
+- **IDE:** VSCode  
+
+### ⚙️ 실행 명령어
+```bash
+npm install
+npm run dev
