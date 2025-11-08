@@ -6,7 +6,7 @@
 각 패턴의 실행 결과 화면을 **캡처**하였습니다.
 
 ## 싱글톤
-![singleton_ui 실행화면](../screenshots/singleton_ui.png)
+![singleton_ui 실행화면](./screenshots/singleton_ui.png)
 
 
 
