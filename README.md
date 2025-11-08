@@ -20,3 +20,8 @@
   <img src="./screenshots/decorator_ui_2.png" alt="decorator_ui 실행화면2" width="350">
 </p>
 
+## 옵저버
+<img src="./screenshots/observer_ui.png" alt="observer_ui 실행화면" width="400">
+
+## 방문자
+<img src="./screenshots/visitor_ui.png" alt="visitor_ui 실행화면" width="400">
