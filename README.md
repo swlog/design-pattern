@@ -28,3 +28,26 @@
 
 ## 방문자(./components/VisitorDemo.vue)
 <img src="./screenshots/visitor_ui.png" alt="visitor_ui 실행화면" width="400">
+
+## 2️⃣ 실습 구현 과제
+
+아래 세 가지 분류(생성 / 구조 / 행위)에서  
+각각 **1개의 디자인 패턴**을 직접 구현하였습니다. 
+
+### 🏗️ 1. 생성 패턴 (Creational Pattern) — **Builder Pattern**
+<p align="center">
+  <img src="./screenshots/builder_ui_1.png" alt="builder_ui 실행화면1" width="350">
+  <img src="./screenshots/builder_ui_2.png" alt="builder_ui 실행화면2" width="350">
+</p>
+
+### 🧱 2. 구조 패턴 (Structural Pattern) — **Proxy Pattern**
+<p align="center">
+  <img src="./screenshots/proxy_ui_1.png" alt="proxy_ui 실행화면1" width="350">
+  <img src="./screenshots/proxy_ui_2.png" alt="proxy_ui 실행화면2" width="350">
+</p>
+
+### 🎯 3. 행위 패턴 (Behavioral Pattern) — **Strategy Pattern**
+<p align="center">
+  <img src="./screenshots/strategy_ui_1.png" alt="strategy_ui 실행화면1" width="350">
+  <img src="./screenshots/strategy_ui_2.png" alt="strategy_ui 실행화면2" width="350">
+</p>
