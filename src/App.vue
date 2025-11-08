@@ -1,12 +1,12 @@
 <template>
   <div class="p-6">
     <h1 class="text-2xl font-bold mb-4">Strategy</h1>
-    <StrategyAssignment/>
+    <ProxyAssignment/>
   </div>
 </template>
 
 <script setup lang="ts">
-import StrategyAssignment from './components/assignments/StrategyAssignment.vue';
+import ProxyAssignment from './components/assignments/ProxyAssignment.vue';
 
 
 

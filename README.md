@@ -51,6 +51,6 @@
 ### 🎯 3. 행위 패턴 (Behavioral Pattern) — **Strategy Pattern**
 `./components/assignments/StrategyAssignment.vue`
 <p align="center">
-  <img src="./screenshots/strategy_ui_1.png" alt="strategy_ui 실행화면1" width="350">
-  <img src="./screenshots/strategy_ui_2.png" alt="strategy_ui 실행화면2" width="350">
+  <img src="./screenshots/strategy_ui_1.png" alt="strategy_ui 실행화면1" width="350" height="200">
+  <img src="./screenshots/strategy_ui_2.png" alt="strategy_ui 실행화면2" width="350" height="200">
 </p>
