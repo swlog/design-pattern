@@ -21,7 +21,10 @@
 </p>
 
 ## 옵저버
-<img src="./screenshots/observer_ui.png" alt="observer_ui 실행화면" width="400">
+<p align="center">
+  <img src="./screenshots/observer_ui_1.png" alt="observer_ui 실행화면1" width="350">
+  <img src="./screenshots/observer_ui_2.png" alt="observer_ui 실행화면2" width="350">
+</p>
 
 ## 방문자
 <img src="./screenshots/visitor_ui.png" alt="visitor_ui 실행화면" width="400">
